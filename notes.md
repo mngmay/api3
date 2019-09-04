@@ -21,3 +21,5 @@ Express APIs are broken down into Express Routers
 
 1. client makes a request to a server
 2. server produces a response and sends it to the client
+
+[client] > request > [middleware > middleware > middleware] > responds to [client]
